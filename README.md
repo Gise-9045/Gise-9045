@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi , I'm Gisela
 
+
+👩‍💻 Student of [ENTI (School of New Interactive Technologies)](https://enti.cat) in Interactive Digital Contents, videogame development.
+
+🔭 I am currently working on an annual project. This project called [LITTLE THINGS](https://reiven-9045.itch.io/little-things) is now available on Itch.io. 
+
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gisela-benito-izquierdo-32b104276/), [Itch.io](https://reiven-9045.itch.io)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gise-9045&show_icons=true&theme=tokyonight)
 <!--
 **Gise-9045/Gise-9045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
